@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Chat Forever</string>
+    <string name="nomor_handphone">Nomor Handphone</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="nama">Nama</string>
+    <string name="email">Email</string>
+    <string name="logout">Logout</string>
+    <string name="hi_man_how_are_you">hi man, how are you?</string>
+    <string name="jason">Jason</string>
+    <string name="_11_40">11:40</string>
+    <string name="lihat_detail">Lihat Detail</string>
+    <string name="profil">profil</string>
+    <string name="tutup">Tutup</string>
+    <string name="register_n_my_chat_forever">Register   My Chat Forever</string>
+    <string name="welcome_to_n_my_chat_forever">Welcome to   My Chat Forever</string>
+</resources>
